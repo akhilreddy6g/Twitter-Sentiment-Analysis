@@ -1,0 +1,2 @@
+# Twitter-Sentiment-Analysis
+We expect that by analyzing the emotions conveyed in tweets, we may get a representation of popular sentiment. Analyzing the public mood is critical for a variety of applications, including businesses determining the market reaction to their goods, forecasting political elections, and forecasting socio-economic phenomena such as the stock exchange .This project tackles the issue of sentiment analysis on Twitter, which entails categorizing messages as good, negative, or neutral.
